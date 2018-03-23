@@ -13,6 +13,7 @@ Here's a list of all the Mac Apps I found (in alphabetic order):
 - [Datagrip](https://www.jetbrains.com/datagrip/)
 - [Datazenit](https://datazenit.com/)
 - [DBeaver](http://dbeaver.jkiss.org/)
+- [dbForge Studio for PostgreSQL](https://www.devart.com/dbforge/postgresql/studio/)
 - [DBGlass](http://dbglass.web-pal.com)
 - [DbVisualizer](https://www.dbvis.com/)
 - [Froq](https://www.colourful-apps.com/products/mac/froq)
